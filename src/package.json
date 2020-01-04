@@ -1,0 +1,26 @@
+{
+  "name": "mgsh",
+  "version": "1.0.0",
+  "description": "A small utility for adding database migration scripts to a project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensandresen/mgsh.git"
+  },
+  "keywords": [
+    "db",
+    "migrations",
+    "cli",
+    "util",
+    "tool"
+  ],
+  "author": "Jens Andresen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jensandresen/mgsh/issues"
+  },
+  "homepage": "https://github.com/jensandresen/mgsh#readme"
+}
